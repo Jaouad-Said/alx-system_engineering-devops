@@ -1,2 +1,2 @@
 #!/bin/bash
-file_list=$(ls -t1)
+ls -t1 | head -n 10
